@@ -66,3 +66,9 @@ Following are the steps for project setup:
    ```
    python manage.py runserver
    ```
+
+## Tests
+The various testcases written for both `userManager` and `events`. You can run those by following command.
+```
+python manage.py test
+```
