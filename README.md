@@ -12,7 +12,7 @@ This Repository an "events" web application where users can log in, create event
 ## EventManager
 Event manager APi is rest api develop using django and django rest framework. Following are the complete steps to run and understands the Event Manager API.
 
-## Project Structure:
+## Components:
 The is developed in Django and Django Rest Framework and data source is sqlite db which comes in default. Following are the some of components of the Project.
 1. UserManager: The API which allow user to login and register into the api. Following are the methods allow by user api
    ```
