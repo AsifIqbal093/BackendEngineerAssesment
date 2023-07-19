@@ -1,7 +1,9 @@
 # BackendEngineerAssesment
-
-# SherpanyBackendEngineer
-This Repository an "events" web application where users can log in, create events and sign up for an event and withdraw from an event. This is for demonstrations of the skills in Python Django Framework.
+This Repository an "events" web application where users can log in, create events and sign up for an event and withdraw from an event. This is for demonstrations of the skills in Python Django Framework. Any user can list events:
+● Sorted so that upcoming events are first.
+● List view shows title, date and amount of participants.
+● List view shows the owner of the event (as the part of the email before the "@").
+● Assume there will be many thousands of events, users and participants per event.
 
 
 # EventManagerAPI
